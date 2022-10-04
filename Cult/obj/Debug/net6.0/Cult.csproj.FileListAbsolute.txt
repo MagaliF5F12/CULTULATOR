@@ -1,0 +1,15 @@
+C:\Users\Ali\source\repos\Cult\Cult\bin\Debug\net6.0\Cult.exe
+C:\Users\Ali\source\repos\Cult\Cult\bin\Debug\net6.0\Cult.deps.json
+C:\Users\Ali\source\repos\Cult\Cult\bin\Debug\net6.0\Cult.runtimeconfig.json
+C:\Users\Ali\source\repos\Cult\Cult\bin\Debug\net6.0\Cult.dll
+C:\Users\Ali\source\repos\Cult\Cult\bin\Debug\net6.0\Cult.pdb
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.AssemblyInfo.cs
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.dll
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\refint\Cult.dll
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.pdb
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\Cult.genruntimeconfig.cache
+C:\Users\Ali\source\repos\Cult\Cult\obj\Debug\net6.0\ref\Cult.dll
